@@ -1,0 +1,27 @@
+{
+  "rooms": [
+    {
+      "id": "5693",
+      "roomId": "1c0523c4a2e2"
+    },
+    {
+      "id": "fb37",
+      "roomId": "meetbhayani123"
+    },
+    {
+      "id": "5863",
+      "roomId": "986251d67d03"
+    },
+    {
+      "id": "1b2f",
+      "roomId": "5df193ea2e91"
+    }
+  ],
+  "messages": [
+    {
+      "id": "71d3",
+      "value": "slergvsbrkhgskhzjl",
+      "roomId": "1c0523c4a2e2"
+    }
+  ]
+}
